@@ -15,13 +15,11 @@ http://php.jdshipin.com/PLTV/iptv.php?id=fct
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/无线新闻台.png" group-title="港澳台",无线新闻台
 http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
-https://stream1.freetv.fun/yan-dong-min-sheng-27.ctv
-#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
-https://stream1.freetv.fun/yan-dong-min-sheng-20.m3u8
+https://mgev.188766.xyz/?migutoken=2bdc9a88330dba897cbaff1370931e1c&id=gd_gdms&type=sz
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
 webview://https://www.gdtv.cn/tvChannelDetail/48
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东珠江.png" group-title="广东",广东珠江
-http://php.jdshipin.com/PLTV/iptv.php?id=gdzj
+https://mgev.188766.xyz/?migutoken=70644b7848fc927cab942857cd38e387&id=gd_gdzj&type=sz
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东珠江.png" group-title="广东",广东珠江
 webview://https://www.gdtv.cn/tvChannelDetail/44
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东体育.png" group-title="广东",广东体育
