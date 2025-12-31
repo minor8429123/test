@@ -21,27 +21,13 @@ https://iptv.mydiver.eu.org/live/encrypted/YTkxOWU3YWM3ODAzMWY3YzA1NWJiNTkwZGYxM
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/中天新闻台.png" group-title="港澳台",中天新闻台
 http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
-https://hk.188766.xyz/?migutoken=040cffa83e519c48525d53dd008d0c0b&id=gd_gdms&type=sz
-#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
 webview://https://www.gdtv.cn/tvChannelDetail/48
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东珠江.png" group-title="广东",广东珠江
-http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东珠江.png" group-title="广东",广东珠江
-https://hk.188766.xyz/?migutoken=78511c65d6d4965db2dd212f858802e7&id=gd_gdzj&type=sz
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东珠江.png" group-title="广东",广东珠江
 webview://https://www.gdtv.cn/tvChannelDetail/44
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东体育.png" group-title="广东",广东体育
-http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东体育.png" group-title="广东",广东体育
-https://hk.188766.xyz/?migutoken=11f73b84e189c656341c5615ac8e5a18&id=gd_gdty&type=sz
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东体育.png" group-title="广东",广东体育
 webview://https://www.gdtv.cn/tvChannelDetail/47
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东影视.png" group-title="广东",广东影视
-http://lfdxn.jydjd.top:2903/udp/224.1.100.154:11111
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东影视.png" group-title="广东",广东影视
 webview://https://www.gdtv.cn/tvChannelDetail/53
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东新闻.png" group-title="广东",广东新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东新闻.png" group-title="广东",广东新闻
 webview://https://www.gdtv.cn/tvChannelDetail/45
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东少儿.png" group-title="广东",广东少儿
@@ -56,6 +42,10 @@ http://101.23.150.109:9901/tsfile/live/0001_1.m3u8
 http://112.123.243.37:50085/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://ygbh.site/php/bfgd.php?id=488
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
+webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
+webview://https://www.yangshipin.cn/tv/home?pid=600001859
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://1.31.14.70:54321/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
