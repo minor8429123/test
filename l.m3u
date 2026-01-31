@@ -23,35 +23,29 @@ http://hls-pull-usmanriaz.speedws.com/live/hktv-abc987HdRUHNEdsHztxw.flv
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
 http://119.123.77.36:8086/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
-https://hk.188766.xyz/?migutoken=8f228dbfbf6310217068186a154341ae&id=gd_gdms&type=sz
-#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
-https://hk.188766.xyz/?migutoken=373adf09688d5268f3da0587de76509a&id=gd_gdms&type=sz
-#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
-https://hk.188766.xyz/?migutoken=aee5688b193fad8328e61ce47543f064&id=gd_gdms&type=sz
-#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
-webview://https://www.gdtv.cn/tvChannelDetail/48
+webview://https://m.gdtv.cn/tvChannelDetail/48
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东珠江.png" group-title="广东",广东珠江
 http://r.jdshipin.com/sE5vO
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东珠江.png" group-title="广东",广东珠江
 http://119.123.77.36:8086/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东珠江.png" group-title="广东",广东珠江
-webview://https://www.gdtv.cn/tvChannelDetail/44
+webview://https://m.gdtv.cn/tvChannelDetail/44
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东体育.png" group-title="广东",广东体育
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东体育.png" group-title="广东",广东体育
 http://119.123.77.36:8086/hls/42/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东体育.png" group-title="广东",广东体育
-webview://https://www.gdtv.cn/tvChannelDetail/47
+webview://https://m.gdtv.cn/tvChannelDetail/47
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东影视.png" group-title="广东",广东影视
 http://119.123.77.36:8086/hls/46/index.m3u8
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东影视.png" group-title="广东",广东影视
-webview://https://www.gdtv.cn/tvChannelDetail/53
+webview://https://m.gdtv.cn/tvChannelDetail/53
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东新闻.png" group-title="广东",广东新闻
 webview://https://www.gdtv.cn/tvChannelDetail/45
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东新闻.png" group-title="广东",广东新闻
 http://119.123.77.36:8086/hls/45/index.m3u8
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东少儿.png" group-title="广东",广东少儿
-webview://https://www.gdtv.cn/tvChannelDetail/54
+webview://https://m.gdtv.cn/tvChannelDetail/54
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东少儿.png" group-title="广东",广东少儿
 http://119.123.77.36:8086/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
