@@ -17,41 +17,53 @@ http://119.237.111.230:55555/stream/channelid/1828814827?ticket=2d9376ffd42fe867
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/中天新闻台.png" group-title="港澳台",中天新闻台
 http://hls-pull-usmanriaz.speedws.com/live/hktv-abc987HdRUHNEdsHztxw.flv
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
-http://gdjydx.sohu.blog:1698/hls/9/index.m3u8#http://115.190.252.60/gdtv.php?id=48#http://115.190.252.60/gdtouch.php?id=1185
+http://183.0.203.154:9999/rtp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
-http://139.162.112.85:17174/gdtv.php?id=48
+http://183.33.58.186:8686/rtp/239.77.0.225:5146
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
+http://14.117.226.129:4022/rtp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东民生.png" group-title="广东",广东民生
 webview://https://m.gdtv.cn/tvChannelDetail/48
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东珠江.png" group-title="广东",广东珠江
 http://iptv.4666888.xyz/iptv2A.php?id=19
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东珠江.png" group-title="广东",广东珠江
-http://gdjydx.sohu.blog:1698/hls/78/index.m3u8#http://121.9.14.195:50085/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0#http://115.190.252.60/gdtv.php?id=44#http://115.190.252.60/gdtouch.php?id=1183
+http://183.0.203.154:9999/rtp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东珠江.png" group-title="广东",广东珠江
-http://9.zubo.cc.cd/gdfsdx.php?id=1012
+http://183.33.58.186:8686/rtp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东珠江.png" group-title="广东",广东珠江
-http://139.162.112.85:17174/gdtv.php?id=44
+http://14.117.226.129:4022/rtp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东珠江.png" group-title="广东",广东珠江
 webview://https://m.gdtv.cn/tvChannelDetail/44
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东体育.png" group-title="广东",广东体育
 http://iptv.4666888.xyz/iptv2A.php?id=20
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东体育.png" group-title="广东",广东体育
-http://gdjydx.sohu.blog:1698/hls/75/index.m3u8#http://121.9.14.195:50085/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0#http://gdmz.sohu.blog:9901/tsfile/live/1012_1.m3u8#http://115.190.252.60/gdtv.php?id=47#http://218.13.170.98:9901/tsfile/live/0019_1.m3u8#http://gdjy.sohu.blog:1698/hls/4/index.m3u8#http://115.190.252.60/gdtouch.php?id=1184#http://111.221.137.155:44330/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+http://183.0.203.154:9999/rtp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东体育.png" group-title="广东",广东体育
-http://9.zubo.cc.cd/gdfsdx.php?id=1015
+http://183.33.58.186:8686/rtp/239.77.0.112:5146
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东体育.png" group-title="广东",广东体育
+http://14.117.226.129:4022/rtp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东体育.png" group-title="广东",广东体育
 webview://https://m.gdtv.cn/tvChannelDetail/47
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东影视.png" group-title="广东",广东影视
-http://gdjydx.sohu.blog:1698/hls/12/index.m3u8#http://115.190.252.60/gdtv.php?id=53#http://115.190.252.60/gdtouch.php?id=1199#http://121.9.14.195:50085/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.0.203.154:9999/rtp/239.77.0.217:5146
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东影视.png" group-title="广东",广东影视
 webview://https://m.gdtv.cn/tvChannelDetail/53
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东新闻.png" group-title="广东",广东新闻
-http://gdjydx.sohu.blog:1698/hls/10/index.m3u8#http://115.190.252.60/gdtv.php?id=45#http://115.190.252.60/gdtouch.php?id=1186#http://121.9.14.195:50085/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.0.203.154:9999/rtp/239.77.0.173:5146
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东新闻.png" group-title="广东",广东新闻
+http://183.33.58.186:8686/rtp/239.77.0.173:5146
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东新闻.png" group-title="广东",广东新闻
 webview://https://www.gdtv.cn/tvChannelDetail/45
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东少儿.png" group-title="广东",广东少儿
-http://gdjydx.sohu.blog:1698/hls/13/index.m3u8#http://115.190.252.60/gdtv.php?id=54#http://115.190.252.60/gdtouch.php?id=1200
+http://183.0.203.154:9999/rtp/239.77.0.250:5146
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东少儿.png" group-title="广东",广东少儿
+http://183.33.58.186:8686/rtp/239.77.0.250:5146
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东少儿.png" group-title="广东",广东少儿
 webview://https://m.gdtv.cn/tvChannelDetail/54
+#EXTINF:-1 tvg-name="顺德台"  group-title="广东",顺德台
+http://183.0.203.154:9999/rtp/239.253.43.55:5146
+#EXTINF:-1 tvg-name="顺德台"  group-title="广东",顺德台
+http://183.33.58.186:8686/rtp/239.253.43.55:5146
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://iptv.4666888.xyz/iptv2A.php?id=7
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
