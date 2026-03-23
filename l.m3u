@@ -59,6 +59,8 @@ webview://https://m.gdtv.cn/tvChannelDetail/53
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东新闻.png" group-title="广东",广东新闻
 http://115.29.208.41:34567/gd.php?id=1186
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东新闻.png" group-title="广东",广东新闻
+http://183.0.203.188:9999/rtp/239.77.0.173:5146
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东新闻.png" group-title="广东",广东新闻
 webview://https://www.gdtv.cn/tvChannelDetail/45
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东少儿.png" group-title="广东",广东少儿
 http://115.29.208.41:34567/gd.php?id=54
